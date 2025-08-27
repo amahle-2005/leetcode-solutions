@@ -1,1 +1,2 @@
-# Java LeetCode Solutions
+### Arrays
+- [Merge Intervals](MergeIntervals.java) ✅
